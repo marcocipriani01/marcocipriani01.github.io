@@ -1,0 +1,27 @@
+{
+  "lang": "en-GB",
+  "name": "Marco Cipriani",
+  "short_name": "MarcoCipriani",
+  "theme_color": "#24292e",
+  "background_color": "#ffffff",
+  
+    "icons": [
+      
+        {
+          "src": "/assets/logos/logo@120px.png",
+          "sizes": "120x120"
+        },
+      
+        {
+          "src": "/assets/logos/logo@144px.png",
+          "sizes": "144x144"
+        },
+      
+        {
+          "src": "/assets/logos/logo@180px.png",
+          "sizes": "180x180"
+        }
+      
+    ],"start_url": "/",
+  "display": "standalone"
+}

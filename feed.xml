@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en-GB"><generator uri="https://jekyllrb.com/" version="3.8.6">Jekyll</generator><link href="https://marcocipriani01.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://marcocipriani01.github.io/" rel="alternate" type="text/html" hreflang="en-GB" /><updated>2019-08-22T20:22:13+02:00</updated><id>https://marcocipriani01.github.io/feed.xml</id><title type="html">Marco Cipriani</title><subtitle>I’m a young astronomy enthusiast, attending the high school somewhere in Italy. In my free time, I take photos of the universe with my telescope and I often write some programs, utilities or Android applications to simplify its use. In my website I describe my projects and publish my photos of the universe.</subtitle><author><name>marcocipriani01</name></author><entry><title type="html">The Iris Nebula</title><link href="https://marcocipriani01.github.io/2019/06/24/Iris-Nebula.html" rel="alternate" type="text/html" title="The Iris Nebula" /><published>2019-06-24T00:00:00+02:00</published><updated>2019-06-24T00:00:00+02:00</updated><id>https://marcocipriani01.github.io/2019/06/24/Iris-Nebula</id><content type="html" xml:base="https://marcocipriani01.github.io/2019/06/24/Iris-Nebula.html">&lt;p&gt;A perfect photo of the Iris Nebula, a reflection nebula in Cepheus!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/2019/2019-06-24-Iris-Nebula.jpg&quot; alt=&quot;Iris Nebula&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-target&quot;&gt;The target&lt;/h3&gt;
+
+&lt;p&gt;The Iris Nebula, also known as NGC 7023 or Caldwell 4) is a diffuse and bright reflection nebula in the constellation Cepheus. It was first discovered in 1794 by the British astronomer, physicist and composer Sir Frederick William Herschel. It is 1300 light-years away and is six light-years across and contains the star HD 200775 (of which the nebula reflects the light) and an open cluster. NGC 7023 can be found at 3.5° SW from the variable and double star Beta Cephei and has an apparent magnitude of 7.7.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-photo&quot;&gt;My photo&lt;/h3&gt;
+
+&lt;p&gt;I took 64 260-sec subs in my backyard at ISO 400, for a total of almost five hours. I didn’t use the UHC filter since it isn’t an emission nebula, but I was able to remove gradients and the effects of light pollution while editing it. Processing with Astro Pixel Processor, Darktable and The GIMP. I feel very satisfied with the result!&lt;/p&gt;</content><author><name>marcocipriani01</name></author><summary type="html">A perfect photo of the Iris Nebula, a reflection nebula in Cepheus!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marcocipriani01.github.io/blog/assets/posts-cover.jpg" /></entry><entry><title type="html">Mineral Moon!</title><link href="https://marcocipriani01.github.io/2019/06/24/Mineral-Moon.html" rel="alternate" type="text/html" title="Mineral Moon!" /><published>2019-06-24T00:00:00+02:00</published><updated>2019-06-24T00:00:00+02:00</updated><id>https://marcocipriani01.github.io/2019/06/24/Mineral-Moon</id><content type="html" xml:base="https://marcocipriani01.github.io/2019/06/24/Mineral-Moon.html">&lt;p&gt;The Moon is always a fascinating object. I can never stop gazing at it with the telescope, and even if it is well studied, it continues revealing new incredible details and mysteries: did you know it’s full of colours, which show its composition on the surface? Here’s “my” Mineral Moon, take a look at it!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/2019/2019-06-24-Mineral-Moon.jpg&quot; alt=&quot;The Moon&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-photo&quot;&gt;The photo&lt;/h3&gt;
+
+&lt;p&gt;I took 83 0.005-secs subs at ISO 400, and then I stacked them up with Siril. Further processing using The GIMP and Darktable to enhance the colours and increase saturation and sharpness.&lt;/p&gt;</content><author><name>marcocipriani01</name></author><summary type="html">My first decent photo of the Moon that also shows all the colours produced by minerals on its surface!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marcocipriani01.github.io/blog/assets/posts-cover.jpg" /></entry><entry><title type="html">The Ring Nebula and the Whale Galaxy</title><link href="https://marcocipriani01.github.io/2019/06/13/M57-Whale-Hockey.html" rel="alternate" type="text/html" title="The Ring Nebula and the Whale Galaxy" /><published>2019-06-13T00:00:00+02:00</published><updated>2019-06-13T00:00:00+02:00</updated><id>https://marcocipriani01.github.io/2019/06/13/M57-Whale-Hockey</id><content type="html" xml:base="https://marcocipriani01.github.io/2019/06/13/M57-Whale-Hockey.html">&lt;p&gt;Three faint objects - the Ring Nebula, NGC 4631 and NGC 4656 - photographed from my light-polluted backyard. Let’s see them!&lt;/p&gt;
+
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.8 --&gt;
+&lt;div id=&quot;m57_hockey_slider&quot;&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/blog/2019/2019-06-13-M57.jpg&quot; title=&quot;The Ring Nebula&quot; alt=&quot;M 57&quot; /&gt;
+  &lt;img data-src=&quot;/blog/2019/2019-06-13-Whale-Hockey%20Stick.jpg&quot; data-src-2x=&quot;&quot; src=&quot;&quot; title=&quot;The Whale Galaxy and the Hockey Stick Galaxy&quot; alt=&quot;NGC4631 and NGC4656&quot; /&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/2019/2019-06-13-M57.jpg&quot;&gt;The Ring Nebula photo&lt;/a&gt;, &lt;a href=&quot;/blog/2019/2019-06-13-Whale-Hockey Stick.jpg&quot;&gt;Whale Galaxy photo&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-ring-nebula&quot;&gt;The Ring Nebula&lt;/h3&gt;
+&lt;p&gt;The Ring Nebula (M 57 or NGC 6720) is a planetary nebula in the northern constellation of Lyra. It is 2570 light-years away from Earth. This kind of nebula takes origin from a shell of ionized gas expelled into the surrounding interstellar medium by a star at the end of its asymptotic giant branch phase, in the last stages of its life before becoming a white dwarf (which is a stellar core remnant composed mostly of dense degenerated matter).
+M 57 was first discovered in January 1779 by the French astronomer Charles Messier when he was looking for Comet Bode. Later, the astronomer William Herschel speculated that the nebula was formed by several stars that were unresolvable with his telescope. In 1800, Friedrich von Hahn announced that he discovered the central white dwarf, but only in 1864, the English astronomer William Huggins examined the spectrum of this object, realizing that it’s a nebulosity, so it is not composed of multiple faint stars as Herschel proposed before.&lt;/p&gt;
+
+&lt;h4 id=&quot;my-photo&quot;&gt;My photo&lt;/h4&gt;
+&lt;p&gt;I was able to capture only 8 photos of 380 seconds at ISO 800 before dawn. I also used a UHC filter and I captured several dark and frames. Then, I processed them using Astro Pixel Processor only. The final photo is quite good if you consider that the sky in my backyard is almost light blue even at midnight due to light pollution. Even the colours are balanced.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-whale-galaxy-and-the-hockey-stick-galaxy&quot;&gt;The Whale Galaxy and the Hockey Stick Galaxy&lt;/h3&gt;
+
+&lt;h4 id=&quot;the-whale-galaxy&quot;&gt;The Whale Galaxy&lt;/h4&gt;
+
+&lt;p&gt;NGC 4631 is a barred spiral galaxy in the constellation Canes Venatici. This galaxy’s slightly distorted wedge shape gives it the appearance of a whale, that’s why it has that nickname. It is 30 megalight-year far away from us. The Whale Galaxy contains a central starburst, which is a region of intense star formation, that is evident in the emission of ionized hydrogen. Moreover, due to the huge number of supernovae which exploded in this galaxy, diffuse X-ray emitting gas around the whole galaxy can be observed by space telescopes.&lt;/p&gt;
+
+&lt;h4 id=&quot;the-hockey-stick-galaxy&quot;&gt;The Hockey Stick Galaxy&lt;/h4&gt;
+
+&lt;p&gt;NGC 4656 is a barred spiral galaxy located in the constellation Canes Venatici. It is informally called the Hockey Stick Galaxies. The reason for this is that it is actually shaped like an elongated, warped stick. The unusual shape is thought to be due to an interaction between NGC 4656 and a couple of near neighbours, the Whale Galaxy and NGC 4627 (a small elliptical galaxy). Like NGC 4631, it is 30 megalight-year far away from us.&lt;/p&gt;
+
+&lt;h4 id=&quot;my-photo-1&quot;&gt;My photo&lt;/h4&gt;
+
+&lt;p&gt;I captured 28 photos for a total of 2 hours and 51 minutes (380 seconds subs at ISO 800). Despite so much time, I wasn’t able to get an excellent result, due to the fact that the two galaxies are so faint (and due to light pollution, too).&lt;/p&gt;</content><author><name>marcocipriani01</name></author><summary type="html">Three faint objects - the Ring Nebula, NGC 4631 and NGC 4656 - photographed from my light-polluted backyard. Let's see them!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marcocipriani01.github.io/blog/assets/posts-cover.jpg" /></entry><entry><title type="html">The Sunflower Galaxy</title><link href="https://marcocipriani01.github.io/2019/03/23/sunflower-galaxy.html" rel="alternate" type="text/html" title="The Sunflower Galaxy" /><published>2019-03-23T00:00:00+01:00</published><updated>2019-03-23T00:00:00+01:00</updated><id>https://marcocipriani01.github.io/2019/03/23/sunflower-galaxy</id><content type="html" xml:base="https://marcocipriani01.github.io/2019/03/23/sunflower-galaxy.html">&lt;p&gt;Let’s photograph the Sunflower Galaxy under a 95% illuminated Moon and very high light pollution! Who would win?&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/2019/2019-03-23-sunflower-galaxy.jpg&quot; alt=&quot;Sunflower Galaxy&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-galaxy&quot;&gt;The galaxy&lt;/h3&gt;
+
+&lt;p&gt;M63, also known as NGC 5055 or the Sunflower Galaxy, is a spiral galaxy in the northern constellation of Canes Venatici. It was discovered by the French astronomer Pierre Méchainin in 1779! It is 29.3 million light-years away from us, so it’s extremely faint (apparent magnitude 9.3)! It shows a spiral shape with no central bar, and moderate arms, and is classified as a “SAbc” galaxy in Edwin Hubble’s morphological classification; in other words, it is classified between “normal” spiral galaxies and galaxies with barred spirals. Indeed, it is also defined as a “flocculent” (soft) galaxy, meaning it has discontinuous spiral arms. It has an estimated mass of  80~140 billion solar masses, and its diameter is about 90000 l-y, thus it is almost the size of the Milky Way. Incredible!&lt;/p&gt;
+
+&lt;h3 id=&quot;my-photo&quot;&gt;My photo&lt;/h3&gt;
+&lt;p&gt;I used for the first time PHD2’s drift align, so I was able to point my telescope perfectly: thanks to this, I was able to capture 29 five minutes subs without having to delete any photo! Despite this fact, since the Moon was 95% illuminated and the light pollution was horrible, each RAW capture is more than ugly. Thanks to 23 darks, 170 offset frames and 100 flats (I exaggerated a bit, I think) I was able to fix this issues during the stacking process in Astro Pixel Processor and The GIMP, so the result is decent. I can do better, of course, but under clearer skies :wink:&lt;/p&gt;</content><author><name>marcocipriani01</name></author><summary type="html">Let's photograph the Sunflower Galaxy under a 95% illuminated Moon and very high light pollution! Who would win?</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marcocipriani01.github.io/blog/assets/posts-cover.jpg" /></entry><entry><title type="html">Rosette Nebula &amp;amp; NGC 2403</title><link href="https://marcocipriani01.github.io/2019/02/05/rosette-ngc2403.html" rel="alternate" type="text/html" title="Rosette Nebula &amp; NGC 2403" /><published>2019-02-05T00:00:00+01:00</published><updated>2019-02-05T00:00:00+01:00</updated><id>https://marcocipriani01.github.io/2019/02/05/rosette-ngc2403</id><content type="html" xml:base="https://marcocipriani01.github.io/2019/02/05/rosette-ngc2403.html">&lt;p&gt;Pretty excited about these photos! The giant Rosette Nebula in Monoceros and the faint NGC 2403 Galaxy in Camaleopardis! Five-minutes subs, good processing in Astro Pixel Processor and Darktable. Read more about these two fantastic objects!&lt;/p&gt;
+
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.8 --&gt;
+&lt;div id=&quot;rosette_ngc2403_slider&quot;&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/blog/2019/2019-02-05-rosette.jpg&quot; title=&quot;The Rosette Nebula&quot; alt=&quot;NGC 2237&quot; /&gt;
+  &lt;img data-src=&quot;/blog/2019/2019-02-05-ngc2403.jpg&quot; data-src-2x=&quot;&quot; src=&quot;&quot; title=&quot;NGC 2403&quot; alt=&quot;&quot; /&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/2019/2019-02-05-rosette.jpg&quot;&gt;Rosette Nebula photo&lt;/a&gt;, &lt;a href=&quot;/blog/2019/2019-02-05-ngc2403.jpg&quot;&gt;NGC 2403 photo&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-rosette-nebula&quot;&gt;The Rosette Nebula&lt;/h3&gt;
+&lt;p&gt;This emission nebula, also known as NGC 2237, is a very large roughly circular hydrogen (H II, ionized gas typically related to star formation) region in the constellation Monoceros. It’s also associated with an open cluster, NGC 2244, discovered around 1690 by the English astronomer John Flamsteed (1643-1719), while the whole nebula was discovered after some time by Sir John Herschel (1792-1871), another famous English astronomer. It’s 5000 light-years away from the Earth and is 130 ly wide in diameter: so wide that it doesn’t fit the sensor of my DSLR! What about apparent magnitude? 9.0, quite enough to be photographed from an extremely light-polluted area like mine, but not enough for visual astronomy.&lt;/p&gt;
+
+&lt;p&gt;My photo is a two-panel mosaic taken my usual Nikon D3300 and my faithful Newtonian f/5 on my SW EQ 5. I was able to capture only 27 light frames (360 seconds, ISO 1600, UHC filter), but the result is very satisfying! Dark, bias and flat frames. The processed photo has a good SNR (signal-to-noise ration). I stacked the light frames with Astro Pixel Processor, and then I edited them using Darktable, an excellent free alternative to Adobe Lightroom. In particular, this program has a tool called “equalizer”, that helped me enhance the contrasts and reducing noise without compromising quality (I wasn’t successful in GIMP, whose noise-reduction tool blurs the image).&lt;/p&gt;
+
+&lt;h3 id=&quot;ngc-2403&quot;&gt;NGC 2403&lt;/h3&gt;
+&lt;p&gt;NGC 2403 is an intermediate spiral galaxy in the constellation Camelopardalis, near the Lynx one. It’s a member of the M 81 group, it’s 8 million light-years away and has an apparent magnitude of 8.9, similar to the Rosette Nebula. It’s known for the two bright supernovae that were been discovered in it, SN 1954J and SN 2004dj, and was discovered by William Herschel in 1788. Its core is rich of H II regions, the same hydrogen of which the Rosette Nebula is made, so I was able to use the UHC filter for this galaxy, too. I captured 13 five-minutes photos with ISO 1600 and my PrimaLuceLab UHC filter. Processing in Astro Pixel Processor and The GIMP.&lt;/p&gt;</content><author><name>marcocipriani01</name></author><summary type="html">Pretty excited about these photos! The giant Rosette Nebula in Monoceros and the faint NGC 2403 Galaxy in Camaleopardis! Five-minutes subs, good processing in Astro Pixel Processor and Darktable. Read more about these two fantastic objects!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marcocipriani01.github.io/blog/assets/posts-cover.jpg" /></entry><entry><title type="html">California Nebula</title><link href="https://marcocipriani01.github.io/2019/01/02/california-nebula.html" rel="alternate" type="text/html" title="California Nebula" /><published>2019-01-02T00:00:00+01:00</published><updated>2019-01-02T00:00:00+01:00</updated><id>https://marcocipriani01.github.io/2019/01/02/california-nebula</id><content type="html" xml:base="https://marcocipriani01.github.io/2019/01/02/california-nebula.html">&lt;p&gt;My first attempt to a wide nebula with an apochromatic telescope: the EvoStar 72. Good but disappointing result: the object is itself very bright but has few details, while the photo has a great noise-to-signal ratio even if I took only six frames. I wouldn’t buy this telescope, and I’ll explain why.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/2019/2019-01-02-california-nebula.jpg&quot; alt=&quot;California Nebula&quot; /&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;the-nebula&quot;&gt;The nebula&lt;/h3&gt;
+
+&lt;p&gt;The California Nebula, also know as NGC 1499, is an emission nebula located in the constellation Perseus and is 1000 light-years away.&lt;/p&gt;
+
+&lt;h3 id=&quot;my-photo&quot;&gt;My photo&lt;/h3&gt;
+&lt;p&gt;Due to clouds, I was able to take only six photos of NGC 1499, six darks and a little more flats and offset frames. Despite all this and light pollution, the result is good, even if the nebula itself hasn’t got many details. I’m highly disappointed by telescope: a friend of mine lent it to me, so I haven’t bought it, and I won’t. I haven’t got a field flattener, but the comatic and chromatic aberration is higher than the aberation of my faithful Newton 200 f/5. In the photo, only at the very centre of the photo stars are sharp enough. I would have expected it because it’s an apochromatic doublet that costs about € 300, not a good triplet refractor.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/blog/2019/2019-01-02-california-nebula-aberation.jpg&quot; alt=&quot;Comatic and chromatic aberation in one of the raw photos&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Comatic and chromatic aberration in one of the raw photos. Also note light pollution: the whole background is blue.&lt;/p&gt;</content><author><name>marcocipriani01</name></author><summary type="html">My first attempt to a wide nebula with an apochromatic telescope: the EvoStar 72. Good but disappointing result: the object is itself very bright but has few details, while the photo has a great noise-to-signal ratio even if I took only six frames. I wouldn't buy this telescope, and I'll explain why.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marcocipriani01.github.io/blog/assets/posts-cover.jpg" /></entry><entry><title type="html">Horsehead nebula and M1</title><link href="https://marcocipriani01.github.io/2018/12/27/horsehead-and-crab.html" rel="alternate" type="text/html" title="Horsehead nebula and M1" /><published>2018-12-27T00:00:00+01:00</published><updated>2018-12-27T00:00:00+01:00</updated><id>https://marcocipriani01.github.io/2018/12/27/horsehead-and-crab</id><content type="html" xml:base="https://marcocipriani01.github.io/2018/12/27/horsehead-and-crab.html">&lt;p&gt;My photos of the Horsehead, Flame and Crab Nebulae under strong light pollution, taken from my backyard in Italy during these cold days (thanks remote control!). My usual gear and a lot of efforts… but the result is unbelievable and very good for my setup and imaging location!&lt;/p&gt;
+
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.8 --&gt;
+&lt;div id=&quot;horsehead_and_crab_slider&quot;&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/blog/2018/2018-12-27-horsehead.jpg&quot; title=&quot;Horsehead nebula&quot; alt=&quot;Alnitak, Barnard 33 (Horsehead) and NGC 2024 (Flame nebula)&quot; /&gt;
+  &lt;img data-src=&quot;/blog/2018/2018-12-27-crab.jpg&quot; data-src-2x=&quot;&quot; src=&quot;&quot; title=&quot;Crab nebula&quot; alt=&quot;M 1&quot; /&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/2018/2018-12-27-horsehead.jpg&quot;&gt;Horsehead nebula photo&lt;/a&gt;,
+&lt;a href=&quot;/blog/2018/2018-12-27-crab.jpg/&quot;&gt;Crab nebula photo&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;horsehead-and-flame-nebulae&quot;&gt;Horsehead and Flame Nebulae&lt;/h2&gt;
+&lt;p&gt;A little of dust between us and the hydrogen region IC 434 delimits an obscure nebula remotely similar to the head of a horse, on the right side of the photo. The Horsehead Nebula, also known as Barnard 33, is near Alnitak, that is the thirteenth brightest star of all, in Orion’s belt, and stands out at the centre of the frame. B 33 is 1500 light-years away and is near the Flame Nebula, or NGC 2024, below Alnitak, which is an emission nebula.&lt;/p&gt;
+&lt;h3 id=&quot;the-photo&quot;&gt;The photo&lt;/h3&gt;
+&lt;p&gt;52 frames, 240 seconds ISO 800 per photo (for a total of almost four hours): it took two nights to photograph it and several hours of processing in Astro Pixel Processor and GIMP. Calibration frames: 56 darks, flats, dark flat and offset frames. Average stacking, stretch, curves and noise reduction: just a few steps to keep the noise-to-ration as low as possible.&lt;/p&gt;
+&lt;h2 id=&quot;the-crab-nebula&quot;&gt;The Crab Nebula&lt;/h2&gt;
+&lt;p&gt;M 1 is one of the most famous nebulae of the sky: one can surely find it in every astronomy book. It’s a supernova remnant in the constellation of Taurus and, despite of its fame, it’s quite faint. The Crab Nebula is 6500 light-years away and in 1054 explosed in such a great way that American and Arabic astronomers observed it for more than twenty days even under daylight. The nebula also hides a very bright pulsar (a neutron star).&lt;/p&gt;
+&lt;h2 id=&quot;the-photo-1&quot;&gt;The photo&lt;/h2&gt;
+&lt;p&gt;Same parameters of the previous photo.&lt;/p&gt;</content><author><name>marcocipriani01</name></author><summary type="html">My photos of the Horsehead, Flame and Crab Nebulae under strong light pollution, taken from my backyard in Italy during these cold days (thanks remote control!). My usual gear and a lot of efforts... but the result is unbelievable and very good for my setup and imaging location!</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marcocipriani01.github.io/blog/assets/posts-cover.jpg" /></entry><entry><title type="html">D3300, M42 and UHC filters</title><link href="https://marcocipriani01.github.io/2018/12/12/uhc-filter.html" rel="alternate" type="text/html" title="D3300, M42 and UHC filters" /><published>2018-12-12T00:00:00+01:00</published><updated>2018-12-12T00:00:00+01:00</updated><id>https://marcocipriani01.github.io/2018/12/12/uhc-filter</id><content type="html" xml:base="https://marcocipriani01.github.io/2018/12/12/uhc-filter.html">&lt;p&gt;I’ve got a Nikon D3300, that I didn’t “astro-modify”, so the red channel is weaker than the others. This, unfortunately, leads to incorrect colour balance in bright emission nebulae like M 42: an exposure time that gives you a good result in one channel may not give you a good effect in the others. Sometimes, I process each channel of my images separately, and when I do it I notice the wrong balance:&lt;/p&gt;
+
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.8 --&gt;
+&lt;div id=&quot;orion_channels&quot;&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/blog/2018/2018-12-12-R.jpg&quot; title=&quot;Red channel&quot; alt=&quot;&quot; /&gt;
+  &lt;img data-src=&quot;/blog/2018/2018-12-12-G.jpg&quot; data-src-2x=&quot;&quot; src=&quot;&quot; title=&quot;Green channel&quot; alt=&quot;&quot; /&gt;
+  &lt;img data-src=&quot;/blog/2018/2018-12-12-B.jpg&quot; data-src-2x=&quot;&quot; src=&quot;&quot; title=&quot;Blue channel&quot; alt=&quot;&quot; /&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;Fortunately, the UHC filter (Ultra High Contrast light pollution broadband filter) helps, especially in the light polluted area where I live! I have a PrimaLuceLab 2’’ filter and I’m very satisfied: no artefacts in the image, very good contrast and colours. In my experience, a single 60 sec shot to M 42 with the filter gave me a better result as compared to an entire sequence without it (see the previous post to take a look to the photo)!
+Remember that, since it’s a nebular filter, you can only use it only with emission nebulae, whose spectrum shows only H-alpha, H-beta and O-III peaks, that pass through the filter. Reflection nebulae and galaxies have a different spectrum that may be partially blocked by this kind of filters!
+Enjoy your filter!&lt;/p&gt;</content><author><name>marcocipriani01</name></author><summary type="html">A short review of UHC filters, when they are useful to increase colour balance and contrast and when you should avoid them.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marcocipriani01.github.io/blog/assets/posts-cover.jpg" /></entry><entry><title type="html">The Pleiades and the Orion Nebula</title><link href="https://marcocipriani01.github.io/2018/12/11/pleiades-and-m42.html" rel="alternate" type="text/html" title="The Pleiades and the Orion Nebula" /><published>2018-12-11T00:00:00+01:00</published><updated>2018-12-11T00:00:00+01:00</updated><id>https://marcocipriani01.github.io/2018/12/11/pleiades-and-m42</id><content type="html" xml:base="https://marcocipriani01.github.io/2018/12/11/pleiades-and-m42.html">&lt;p&gt;The Great Orion Nebula and the Pleiades: when the UHC filter &lt;strong&gt;must&lt;/strong&gt; be used. I’m happy with the photo I took to M 45, but I’m also disappointed by the colour balance and the contrasts of the Orion Nebula: I didn’t use the light pollution filter this time…&lt;/p&gt;
+
+&lt;!-- Jekyll Ideal Image Slider Include --&gt;
+&lt;!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include --&gt;
+&lt;!-- v1.8 --&gt;
+&lt;div id=&quot;pleiades_orion_slider&quot;&gt;
+  &lt;img data-src=&quot;&quot; data-src-2x=&quot;&quot; src=&quot;/blog/2018/2018-12-11-m45.jpg&quot; title=&quot;The Pleiades, or Seven Sisters&quot; alt=&quot;M 45&quot; /&gt;
+  &lt;img data-src=&quot;/blog/2018/2018-12-11-m42.jpg&quot; data-src-2x=&quot;&quot; src=&quot;&quot; title=&quot;The Great Orion Nebula&quot; alt=&quot;M 42&quot; /&gt;
+  &lt;/div&gt;
+
+&lt;p&gt;&lt;a href=&quot;/blog/2018/2018-12-11-m45.jpg&quot;&gt;Pleiades photo&lt;/a&gt;, &lt;a href=&quot;/blog/2018/2018-12-11-m42.jpg&quot;&gt;Orion nebula photo&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;the-pleiades&quot;&gt;The Pleiades&lt;/h2&gt;
+
+&lt;p&gt;Also known as the Seven Sisters (named for the Seven Sisters of Greek mythology: Sterope, Merope, Electra, Maia, Taygeta, Celaeno, and Alcyone, along with their parents Atlas and Pleione) or M45, the Pleiades is an open star cluster in the constellation of Taurus. It’s visible to the naked eye, even from a light polluted area like mine and it’s the closest star cluster to Earth (444 light-years). It’s dominated by hot blue bright stars that have formed within the last 100 million years, while the reflection nebulae around them are made of dust clouds in the interstellar medium (blue nebulae are always reflection one). Galileo Galilei was the first astronomer to view the Pleiades through a telescope and discovered that the cluster contains many stars too dim to be seen with the naked eye. He published his observations, including a sketch of the Pleiades showing 36 stars, in his treatise Sidereus Nuncius in March 1610.&lt;/p&gt;
+
+&lt;h3 id=&quot;the-photo&quot;&gt;The photo&lt;/h3&gt;
+
+&lt;p&gt;24 frames, 280 seconds ISO 200 per photo, processing in Astro Pixel Processor and GIMP. Calibration frames: 14 darks, flats, dark flat and offset frames. Average stacking, stretch, curves and noise reduction: just a few steps to keep the noise-to-ration as low as possible.&lt;/p&gt;
+
+&lt;h2 id=&quot;the-orion-nebula&quot;&gt;The Orion Nebula&lt;/h2&gt;
+
+&lt;p&gt;M 42 is a diffuse nebula located south of Orion’s Belt in the “sword” of Orion. This fascinating star formation region is 1344 light-years away, so the closest one to Earth! It is also one of the most photographed and studied object of the night sky (the Hubble Space Telescope photographed it with every camera it has!).&lt;/p&gt;
+
+&lt;h3 id=&quot;the-photo-1&quot;&gt;The photo&lt;/h3&gt;
+
+&lt;p&gt;I’m quite disappointed by this photo: I wasn’t able to successfully balance the colours (in particular, the red channel) and the contrasts in the core of the nebula. Last time I photographed it I took one single shot with my PrimaLuceLab UHC filter (Ultra High Contrast light pollution broadband filter) and the result was better than this sequence of 39 photos: sadly, the disadvantages of living in a light polluted area.&lt;/p&gt;
+
+&lt;p&gt;Sequence:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;15x 120s ISO100&lt;/li&gt;
+  &lt;li&gt;5x 240s ISO100&lt;/li&gt;
+  &lt;li&gt;6x 30s ISO100&lt;/li&gt;
+  &lt;li&gt;13x 60s ISO100&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Dark, flat and bias frames. Processing in Astro Pixel Processor and The GIMP.&lt;/p&gt;</content><author><name>marcocipriani01</name></author><summary type="html">The Great Orion Nebula and the Pleiades: when the UHC filter **must** be used. I'm happy with the photo I took to M 45, but I'm also disappointed by the colour balance and the contrasts of the Orion Nebula: I didn't use the light pollution filter this time...</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marcocipriani01.github.io/blog/assets/posts-cover.jpg" /></entry><entry><title type="html">Comet 46P/Wirtanen</title><link href="https://marcocipriani01.github.io/2018/12/11/wirtanen.html" rel="alternate" type="text/html" title="Comet 46P/Wirtanen" /><published>2018-12-11T00:00:00+01:00</published><updated>2018-12-11T00:00:00+01:00</updated><id>https://marcocipriani01.github.io/2018/12/11/wirtanen</id><content type="html" xml:base="https://marcocipriani01.github.io/2018/12/11/wirtanen.html">&lt;div class=&quot;video&quot;&gt;
+    &lt;video autoplay=&quot;&quot; controls=&quot;&quot;&gt;
+        &lt;source src=&quot;/blog/2018/2018-12-11-wirtanen.mp4&quot; type=&quot;video/mp4&quot; /&gt;
+        Your browser does not support the video tag.
+    &lt;/video&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;the-comet&quot;&gt;The comet&lt;/h2&gt;
+
+&lt;p&gt;46P/Wirtanen is a small short-period comet with an orbital period of 5.4 years,  discovered on January 17, 1948, by the American astronomer Carl A. Wirtanen. On 16 December 2018, the comet will pass 0.0774 AU (11,580,000 km) from Earth, reaching an estimated magnitude of 4.2~3&lt;/p&gt;
+
+&lt;h3 id=&quot;my-result&quot;&gt;My result&lt;/h3&gt;
+
+&lt;p&gt;I’ve taken some 45 seconds exposures (ISO 800, for about one hour, with some delay between each photo) from my backyard and then I made this timelapse. Since the comet was really fast (long focal length, 1000, and APS-C sensor), I had to delete several frames, so the video has only 19 frames, manually processed in Astro Pixel Processor and then edited in a video with Kdenlive.&lt;/p&gt;</content><author><name>marcocipriani01</name></author><summary type="html">I've taken some 45 seconds exposures (ISO 800, for about one hour, with some delay between each photo) from my backyard and then I made this timelapse. Since the comet was really fast (long focal length, 1000, and APS-C sensor), I had to delete several frames, so the video has only 19 frames, manually processed in Astro Pixel Processor and then edited in a video with Kdenlive.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="https://marcocipriani01.github.io/blog/assets/posts-cover.jpg" /></entry></feed>
