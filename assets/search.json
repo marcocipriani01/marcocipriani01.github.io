@@ -123,7 +123,7 @@
   {
     "title": "OpenFocuser",
     "excerpt": "OpenFocuser is an open-source Arduino-based MoonLite-compatible telescope focuser. It’s compatible with every operating system and supports autofocusing.\n",
-    "content": " OpenFocuser is a MoonLite-compatible motorized focuser controller with absolute and relative positioning and half and full step switching. It is Unix/Linux (INDI) and Windows (MoonLite and ASCOM) compatible. Two editions are available: standard and Plus, which has a non-MoonLite extra function to control all the Arduino’s digital and PWM pins, allowing the final user to turn on and off (or regulate in current) other devices like dew heaters, mirror coolers, or even a Raspberry Pi, directly from your computer, or remotely with Telescope-Pi. OpenFocuser also comes with a firmware update utility (via avrdude), a command line server for remote control (using INDI) and a control panel to manage the pins (name and value at startup). 3D mounting brackets and circuit/PCB projects are also provided.\n\nRead more: full documentation in the GitHub repository!\nYou can also download a PDF guide here\n\n\n\n\n\n  \n  \n  \n  \n  \n  \n  \n  \n",
+    "content": " OpenFocuser is a MoonLite-compatible motorized focuser controller with absolute and relative positioning and half and full step switching. It is Unix/Linux (INDI) and Windows (MoonLite and ASCOM) compatible.\nGet one in the shop!\n\n\n\n\n\n  \n  \n  \n  \n  \n  \n  \n  \n",
     "url": "/projects/OpenFocuser.html"
   },
   
@@ -188,6 +188,13 @@
     "excerpt": "Search for a page or post you’re looking for\n",
     "content": "{% include site-search.html %}\n",
     "url": "/search.html"
+  },
+  
+  {
+    "title": "<a href=\"/shop\">My little shop</a>",
+    "excerpt": "\n",
+    "content": "Important notice\nCurrent manufacturing time may be up to 25 days long, due to the endless delivery times of the components, especially the high quality brackets. Delays are due to the COVID-19 outbreak and in part to personal commitments.\n\nContacting me\nI invite everyone who is interested in a product to contact me before the purchase using the contact form (on the right or in the About page). You’ll be able to ask directly for a custom bracket or a brand-new solution for your telescope, or find answers regarding my projects.\n\n\n\n\n\n\n\n\n\n\n\n\n",
+    "url": "/shop.html"
   }
   
 ]
