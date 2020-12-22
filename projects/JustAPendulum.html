@@ -10,7 +10,7 @@
     
       <!-- Begin Jekyll SEO tag v2.6.1 -->
 <title>JustAPendulum | Marco Cipriani</title>
-<meta name="generator" content="Jekyll v3.8.6" />
+<meta name="generator" content="Jekyll v3.9.0" />
 <meta property="og:title" content="JustAPendulum" />
 <meta name="author" content="marcocipriani01" />
 <meta property="og:locale" content="en_GB" />
@@ -21,7 +21,7 @@
 <meta property="og:site_name" content="Marco Cipriani" />
 <meta property="og:image" content="https://marcocipriani01.github.io/1.jpg" />
 <script type="application/ld+json">
-{"headline":"JustAPendulum","publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://marcocipriani01.github.io/assets/logos/logo.png"},"name":"marcocipriani01"},"url":"https://marcocipriani01.github.io/projects/JustAPendulum.html","image":"https://marcocipriani01.github.io/1.jpg","author":{"@type":"Person","name":"marcocipriani01"},"description":"I’m a young astronomy enthusiast, attending the high school somewhere in Italy. In my free time, I take photos of the universe with my telescope and I often write some programs, utilities or Android applications to simplify its use. In my website I describe my projects and publish my photos of the universe.","@type":"WebPage","@context":"https://schema.org"}</script>
+{"@type":"WebPage","image":"https://marcocipriani01.github.io/1.jpg","url":"https://marcocipriani01.github.io/projects/JustAPendulum.html","headline":"JustAPendulum","author":{"@type":"Person","name":"marcocipriani01"},"publisher":{"@type":"Organization","logo":{"@type":"ImageObject","url":"https://marcocipriani01.github.io/assets/logos/logo.png"},"name":"marcocipriani01"},"description":"I’m a young astronomy enthusiast, attending the high school somewhere in Italy. In my free time, I take photos of the universe with my telescope and I often write some programs, utilities or Android applications to simplify its use. In my website I describe my projects and publish my photos of the universe.","@context":"https://schema.org"}</script>
 <!-- End Jekyll SEO tag -->
 
     
@@ -311,13 +311,13 @@ window.cookieconsent.initialise({
 
 <h3 id="the-physics-behind-it">The physics behind it</h3>
 
-<p>These are all the formulae used in JustAPendulum. I’m not going to demonstrate them, but if you’re curious, this information is easy to find in every physics book. To calculate the gravitational acceleration of the Earth, the pendulum simply measures the oscillation period <script type="math/tex">T</script>, then uses the following formula to calculate <script type="math/tex">g</script>:</p>
+<p>These are all the formulae used in JustAPendulum. I’m not going to demonstrate them, but if you’re curious, this information is easy to find in every physics book. To calculate the gravitational acceleration of the Earth, the pendulum simply measures the oscillation period \(T\), then uses the following formula to calculate \(g\):</p>
 
-<script type="math/tex; mode=display">g=4\pi^2{l \over T^2}</script>
+\[g=4\pi^2{l \over T^2}\]
 
 <p>and this one to calculate the absolute error over the acceleration:</p>
 
-<script type="math/tex; mode=display">e_g=g\biggl({0.01 m \over l}+2{0.001 s \over T}\biggr)</script>
+\[e_g=g\biggl({0.01 m \over l}+2{0.001 s \over T}\biggr)\]
 
 <p>$l$ is the length of the wire of the pendulum. This parameter must be set from the Companion program (see below). $0.01 m$ is the measurement error of the length (sensibility of the ruler is assumed 1 cm), while $0.001 s$ is the precision of Arduino’s clock.</p>
 
@@ -342,7 +342,7 @@ window.cookieconsent.initialise({
 
 <p>This formula was first (partially) discovered by Galileo Galilei around 1602, who investigated on the regular motion of pendulums, making pendulums be adopted as the most precise timekeeping machines until 1930 when quartz oscillators were invented, followed by atomic clocks after World War 2. According to one of Galileo’s students, Galileo was attending a Mass in Pisa when he noticed that wind caused very slight motion of a chandelier suspended in the cathedral. He kept looking at the motion of the chandelier and he noticed that even though the breeze stopped and the back-and-forth distance travelled by the pendulum shortened, yet the time it took the chandelier to make the oscillation seemed to remain constant. He timed the swinging of the chandelier by the regular beating of the pulse in his wrist and realized he was right: no matter the distance travelled, the time it took was always the same. After more measurements and studies, he then found out that</p>
 
-<script type="math/tex; mode=display">T \alpha \sqrt{ L \over g }</script>
+\[T \alpha \sqrt{ L \over g }\]
 
 <p>The two times $\pi$, as in the in the previous equation, turns the proportional expression into a true equation - but that involves a mathematical stratagem that Galileo hadn’t got.</p>
 
