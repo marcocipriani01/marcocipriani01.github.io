@@ -74,6 +74,14 @@
 
     
     
+        <!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<link rel="stylesheet" href="/assets/css/slider/ideal-image-slider.css">
+<link rel="stylesheet" href="/assets/css/slider/themes/default.css">
+        <!-- Overwrite this file with code you want before the closing body tag -->
+
+    
     
     
     
@@ -273,7 +281,63 @@ window.cookieconsent.initialise({
 
     <h1 id="content">ThunderFocus</h1>
 
-    <p>More info will be soon provided.</p>
+    <p>ThunderFocus is an open-source telescope focuser developed by Marco Cipriani. The source code is available on <a href="https://github.com/marcocipriani01/ThunderFocus">GitHub</a> and is issued under the <a href="https://www.gnu.org/licenses/gpl-3.0.html">GNU General Public License version 3</a>. By using this software, you accept all the terms of its license.</p>
+
+<h3 id="description-of-the-project">Description of the project</h3>
+
+<p>ThunderFocus is an all-in-one focuser and power box (dew heater controller) designed to be fully customizable and feature-rich. It has its own control software written in Java and is both <a href="https://indilib.org/">INDI</a> and <a href="https://ascom-standards.org/">ASCOM</a> compatible.</p>
+
+<p>The firmware can run on both Arduino and Teensy, with the only difference being the RTC support and the speed of the MCU. Thanks to the firmware configuration file, you can select only the features you need and remove the unnecessary: the control software will detect the available features and display only the options supported by the board, so you won’t need to modify other files.</p>
+
+<p>The user interface is platform-independent and works seamless across computers and boards like Raspberry Pi, with the only requirement being Java 14 (bundled in the Windows installer): in this way, you get the same experience no matter what OS you run. Moreover, it uses <a href="http://indiforjava.sourceforge.net/stage/index.html">INDIForJava</a> for INDI/KStars compatibility and a special ASCOM driver for Windows compatibility. As a bonus, it can also be controlled using the <a href="https://marcocipriani01.github.io/projects/IPARCOS">IPARCOS Android app</a> when the INDI server is enabled!</p>
+
+<h3 id="features">Features</h3>
+
+<ul>
+  <li>INDI/ASCOM compatibility, cross platform interface</li>
+  <li>Full telescope focuser control
+    <ul>
+      <li>Can control either one main telescope focuser or one guidescope/off-axis guider focuser</li>
+      <li>Backlash compensation</li>
+      <li>Precise micro-stepping control for pin-point stars</li>
+      <li>Displays the focuser position in millimeters, ticks or any unit of your liking</li>
+      <li>Remembers the last position</li>
+    </ul>
+  </li>
+  <li>Advanced dew heaters control, which can also turn on and off the telescope mount or other accessories.
+    <ul>
+      <li>Various automatic modes: temperature, dew point, humidity, sunset/sunrise</li>
+      <li>Manual control/override of outputs</li>
+      <li>Completely autonomous after configuration: can work without a PC</li>
+      <li>Restores the last state after power up</li>
+      <li>High efficiency, does not require heatsinks or cooling</li>
+    </ul>
+  </li>
+  <li>Ambient monitoring
+    <ul>
+      <li>Temperature, humidity, dew point</li>
+      <li>Graphs of the whole observing night</li>
+    </ul>
+  </li>
+</ul>
+
+<h3 id="showcase">Showcase</h3>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="thunderfocus_slider">
+  <img data-src="" data-src-2x="" src="/projects/ThunderFocus/photos/1.jpg" title="" alt="" />
+  <img data-src="" data-src-2x="" src="/projects/ThunderFocus/photos/2.jpg" title="" alt="" />
+  <img data-src="" data-src-2x="" src="/projects/ThunderFocus/photos/3.jpg" title="" alt="" />
+  <img data-src="" data-src-2x="" src="/projects/ThunderFocus/photos/4.jpg" title="" alt="" />
+  <img data-src="" data-src-2x="" src="/projects/ThunderFocus/photos/5.jpg" title="" alt="" />
+  <img data-src="" data-src-2x="" src="/projects/ThunderFocus/photos/6.jpg" title="" alt="" />
+  <img data-src="" data-src-2x="" src="/projects/ThunderFocus/photos/7.jpg" title="" alt="" />
+  <img data-src="" data-src-2x="" src="/projects/ThunderFocus/photos/8.jpg" title="" alt="" />
+  <img data-src="" data-src-2x="" src="/projects/ThunderFocus/photos/9.jpg" title="" alt="" />
+  <img data-src="" data-src-2x="" src="/projects/ThunderFocus/photos/10.jpg" title="" alt="" />
+  </div>
 
 
   </article>
@@ -396,6 +460,18 @@ window.cookieconsent.initialise({
     <!-- Jekyll Ideal Image Slider Include -->
 <!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
 <!-- v1.8 -->
+  <script src="/assets/js/slider/ideal-image-slider.min.js"></script>
+  <script src="/assets/js/slider/iis-bullet-nav.js"></script>
+  <script src="/assets/js/slider/iis-captions.js"></script>
+  <script>
+  var thunderfocus_slider = new IdealImageSlider.Slider({
+      selector: '#thunderfocus_slider',
+      effect: 'slide',
+      });
+    thunderfocus_slider.addBulletNav();
+    thunderfocus_slider.addCaptions();
+    thunderfocus_slider.start();
+  </script>
   </body>
 
 </html>

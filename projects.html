@@ -279,11 +279,32 @@ window.cookieconsent.initialise({
 
     <h1 id="content">Projects</h1>
 
-    <h2 id="thunderfocus"><a href="/projects/ThunderFocus">ThunderFocus</a></h2>
+    <!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="projects_slider">
+  <img data-src="" data-src-2x="" src="/projects/ThunderFocus/photos/1.jpg" title="ThunderFocus" alt="The 3D-printed holder and the motor" />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider1/2.jpg" title="Caprile Observatory" alt="" />
+  <img data-src="" data-src-2x="" src="/projects/ThunderFocus/photos/3.jpg" title="ThunderFocus" alt="The electronics" />
+  <img data-src="/projects/IPARCOS/slide.png" data-src-2x="" src="" title="IPARCOS" alt="Telescope control app" />
+  <img data-src="/projects/JustAPendulum/1.jpg" data-src-2x="" src="" title="JustAPendulum" alt="Digital pendulum" />
+  <img data-src="/projects/MathsTests/slide.png" data-src-2x="" src="" title="MathsTests" alt="Ruffini's rule factorizer" />
+  <img data-src="/projects/RoverBluetooth/1.jpg" data-src-2x="" src="" title="RoverBluetooth" alt="Arduino-based Bluetooth car" />
+  </div>
 
-<p>More info will be soon provided.</p>
+<h3 id="caprile-observatory"><a href="/projects/CaprileObservatory">Caprile Observatory</a></h3>
 
-<h2 id="iparcos"><a href="/projects/IPARCOS">IPARCOS</a></h2>
+<p>After my final high school exam, a friend of mine asked me if I was available for what turned out to be my greatest project: building an astronomical observatory in the Florence’s countryside. Check this project out!</p>
+
+<h3 id="thunderfocus"><a href="/projects/ThunderFocus">ThunderFocus</a></h3>
+
+<p>ThunderFocus is an all-in-one focuser and power box (dew heater controller) designed to be fully customizable and feature-rich. It has its own control software written in Java and is both <a href="https://indilib.org/">INDI</a> and <a href="https://ascom-standards.org/">ASCOM</a> compatible.</p>
+
+<p>The firmware can run on both Arduino and Teensy, with the only difference being the RTC support and the speed of the MCU. Thanks to the firmware configuration file, you can select only the features you need and remove the unnecessary: the control software will detect the available features and display only the options supported by the board, so you won’t need to modify other files.</p>
+
+<p>The user interface is platform-independent and works seamless across computers and boards like Raspberry Pi, with the only requirement being Java 14 (bundled in the Windows installer): in this way, you get the same experience no matter what OS you run. Moreover, it uses <a href="http://indiforjava.sourceforge.net/stage/index.html">INDIForJava</a> for INDI/KStars compatibility and a special ASCOM driver for Windows compatibility. As a bonus, it can also be controlled using the <a href="https://marcocipriani01.github.io/projects/IPARCOS">IPARCOS Android app</a> when the INDI server is enabled!</p>
+
+<h3 id="iparcos"><a href="/projects/IPARCOS">IPARCOS</a></h3>
 
 <p>IPARCOS (INDI Protocol Android Remote COntrol Software) is an INDI client for Android.
 It features a generic control panel, a mount joystick-like screen, a focuser controller and a database of objects to point the telescope.</p>
@@ -299,20 +320,6 @@ It features a generic control panel, a mount joystick-like screen, a focuser con
 <h3 id="roverbluetooth"><a href="/projects/RoverBluetooth">RoverBluetooth</a></h3>
 
 <p>This was my first project, which I made it for my school exams at the age of thirteen. Exhibited at  <a href="http://www.makerfairerome.eu/">Maker Faire Rome</a>! This car is based on an <a href="https://www.arduino.cc/en/Main/ArduinoBoardUno">Arduino UNO</a> and is made only from low-cost components, easy to find everywhere: nothing needs to be made with professional equipment! An old <a href="http://www.meccano.com/">Meccano®</a> pack is all you need for the body of this car, while a driver, a motor, a battery pack and an ultrasonic distance sensor are required for the circuit.</p>
-
-<hr />
-
-<!-- Jekyll Ideal Image Slider Include -->
-<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
-<!-- v1.8 -->
-<div id="projects_slider">
-  <img data-src="" data-src-2x="" src="/projects/ThunderFocus/photos/1.jpg" title="ThunderFocus" alt="The 3D-printed holder and the motor" />
-  <img data-src="" data-src-2x="" src="/projects/ThunderFocus/photos/3.jpg" title="ThunderFocus" alt="The electronics" />
-  <img data-src="/projects/IPARCOS/slide.png" data-src-2x="" src="" title="IPARCOS" alt="Telescope control app" />
-  <img data-src="/projects/JustAPendulum/1.jpg" data-src-2x="" src="" title="JustAPendulum" alt="Digital pendulum" />
-  <img data-src="/projects/MathsTests/slide.png" data-src-2x="" src="" title="MathsTests" alt="Ruffini's rule factorizer" />
-  <img data-src="/projects/RoverBluetooth/1.jpg" data-src-2x="" src="" title="RoverBluetooth" alt="Arduino-based Bluetooth car" />
-  </div>
 
 
   </article>

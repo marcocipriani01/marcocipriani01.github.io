@@ -74,6 +74,14 @@
 
     
     
+        <!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<link rel="stylesheet" href="/assets/css/slider/ideal-image-slider.css">
+<link rel="stylesheet" href="/assets/css/slider/themes/default.css">
+        <!-- Overwrite this file with code you want before the closing body tag -->
+
+    
     
     
     
@@ -255,8 +263,8 @@ window.cookieconsent.initialise({
 
   <div class="feature" style="background-image: url(cover.jpg)">
     <div class="container  typeset">
-      <h2 id="caprile-observatory"><span style="color:white">Caprile Observatory</span></h2>
-<p><span style="color:white">Osservatorio Caprile, Florence, Italy</span></p>
+      <h2 id="caprile-observatory"><span style="color:white; background:#242e2b">Caprile Observatory</span></h2>
+<p><span style="color:white; background:#242e2b">Osservatorio Caprile, Florence, Italy</span></p>
 
     </div>
   </div>
@@ -272,7 +280,45 @@ window.cookieconsent.initialise({
 
     <h1 id="content">Caprile Observatory</h1>
 
+    <p>After my final high school exam, a friend of mine asked me if I was available for what turned out to be my greatest project: building an astronomical observatory in the Florence’s countryside. Ambitious, hard, but here I am telling you about it! First of all, I am sorry if I will not provide exact instructions on how to build it: as you can imagine, there are so many parts in this observatory that it would take me a year just to describe everything. However, if you want to make your own, I invite you to thinker and come up with your unique solutions to the problems you will certainly face: by doing so, you will certainly learn a lot and enjoy more the journey!</p>
+
+<h3 id="photos">Photos</h3>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="caprile1_slider">
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider1/1.jpg" title="" alt="The finished observatory, and me" />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider1/2.jpg" title="" alt="The telescope inside" />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider1/3.jpg" title="" alt="" />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider1/4.jpg" title="" alt="" />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider1/5.jpg" title="" alt="The electronics" />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider1/6.jpg" title="" alt="" />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider1/7.jpg" title="" alt="The weather station" />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider1/8.jpg" title="" alt="The roof motor" />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider1/9.jpg" title="" alt="The inside of the electronics" />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider1/10.jpg" title="" alt="Building the observatory..." />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider1/11.jpg" title="" alt="Building the observatory..." />
+  </div>
+
+<h3 id="sponsor">Sponsor</h3>
+
+<figure class="figure desktop-only figure--center">
     
+        <img class="image" src="/projects/CaprileObservatory/digitspace.png" alt="" width="" height="" />
+    
+    
+</figure>
+<figure class="figure mobile-only figure--center">
+    
+        <img class="image" src="/projects/CaprileObservatory/digitspace.png" alt="" width="" height="" />
+    
+    
+</figure>
+
+<p>Thanks to <strong><a href="https://www.digitspace.com/">DigitSpace</a></strong> for sponsoring this project! They contributed to the making of the electronics by providing sensors, cameras and other components! More about them in the section about the building of the observatory.</p>
+
+<h3 id="more-to-come">More to come…</h3>
 
 
   </article>
@@ -395,6 +441,18 @@ window.cookieconsent.initialise({
     <!-- Jekyll Ideal Image Slider Include -->
 <!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
 <!-- v1.8 -->
+  <script src="/assets/js/slider/ideal-image-slider.min.js"></script>
+  <script src="/assets/js/slider/iis-bullet-nav.js"></script>
+  <script src="/assets/js/slider/iis-captions.js"></script>
+  <script>
+  var caprile1_slider = new IdealImageSlider.Slider({
+      selector: '#caprile1_slider',
+      effect: 'slide',
+      });
+    caprile1_slider.addBulletNav();
+    caprile1_slider.addCaptions();
+    caprile1_slider.start();
+  </script>
   </body>
 
 </html>
