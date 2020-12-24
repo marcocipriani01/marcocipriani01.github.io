@@ -280,7 +280,8 @@ window.cookieconsent.initialise({
 
     <h1 id="content">Caprile Observatory</h1>
 
-    <p>After my final high school exam, a friend of mine asked me if I was available for what turned out to be my greatest project: building an astronomical observatory in the Florence’s countryside. Ambitious, hard, but here I am telling you about it! First of all, I am sorry if I will not provide exact instructions on how to build it: as you can imagine, there are so many parts in this observatory that it would take me a year just to describe everything. However, if you want to make your own, I invite you to thinker and come up with your unique solutions to the problems you will certainly face: by doing so, you will certainly learn a lot and enjoy more the journey!</p>
+    
+<p>After my final high school exam, a friend of mine asked me if I was available for what turned out to be my greatest project: building an astronomical observatory in the Florence’s countryside. Ambitious, hard, but here I am telling you about it! First of all, I am sorry if I will not provide exact instructions on how to build it: as you can imagine, there are so many parts in this observatory that it would take me a year just to describe everything. However, if you want to make your own, I invite you to thinker and come up with your unique solutions to the problems you will certainly face: by doing so, you will certainly learn a lot and enjoy more the journey!</p>
 
 <h3 id="photos">Photos</h3>
 
@@ -318,7 +319,57 @@ window.cookieconsent.initialise({
 
 <p>Thanks to <strong><a href="https://www.digitspace.com/">DigitSpace</a></strong> for sponsoring this project! They contributed to the making of the electronics by providing sensors, cameras and other components! More about them in the section about the building of the observatory.</p>
 
-<h3 id="more-to-come">More to come…</h3>
+<h3 id="the-aim-of-the-project">The aim of the project</h3>
+
+<p>My friend wanted a fully remote observatory for his astrophotography setup, possibly on a budget and as reliable as possible.
+Unfortunately, pre-made sliding structures are really expensive, usually made of metal (so hard to dismantle and recycle) and lack the kind of remote control he wanted.
+There are also remote control systems, but they are usually professional and complex. That said, the aim of this project was to find a custom solution to all these problems
+while being a great opportunity of learning and making experience.</p>
+
+<h3 id="the-plan">The plan</h3>
+
+<p>Every big project must have one: in this case, there were a lot a constrains and requirements that needed to be fulfilled.</p>
+
+<ul>
+  <li>The roof must slide completely and the structure must not hide parts of the sky</li>
+  <li>No cement foundations, since the observatory would be located in a front yard and not in building plot</li>
+  <li>Must withstand the snow and heavy rain typical of that place</li>
+  <li>Must not require special machines to build or extraordinary transports for the material</li>
+  <li>Stay within a budget of €3000, labor and astronomical equipment excluded</li>
+  <li>Must be fully remote, have a web interface to open/close the roof and monitor everything</li>
+  <li>Must be able to turn on and off the equipment, the telescope’s PC and the AC plugs</li>
+  <li>Security cameras and PIR alarm, with notifications and recording</li>
+  <li>Weather station, all-sky camera and anemometer</li>
+</ul>
+
+<p>Moreover, add to this list the countless dimension limits and the sleepless nights spent defining every single detail before start the actual design!
+Bear in mind that this is a simplified list of the fundamental requirements: the accurate planning of the observatory took an entire month of full-time work for both me and my friend.
+We had to research and study a lot about how to build wood structure, think about the sliding roof, look for the best suited electronic components and so on.</p>
+
+<h3 id="designing-the-structure">Designing the structure</h3>
+
+<p>This was no easy task: I had to draw every single part of the observatory using <a href="https://www.autodesk.com/products/fusion-360/personal">Fusion 360</a> for a number of reasons:
+I needed to check each dimension, get a sense of how the structure would be, simulate the movements of the telescope (i.e. use motion studies to point the telescope and see if the walls block the view)
+and finally create a sort of instruction manual for my friend to buy, cut and assemble the wood. Indeed, due the 2020 pandemic and the fact that I live in Rome, away from the place where it would have
+been built, my friend built the structure on his own following my design, while I worked on the electronics at home.</p>
+
+<p>I will not be providing the exact instructions and dimensions, since they are labelled in Italian and would be above all pointless without an exact explanation of each part.
+Here are, however, some of renderings I’ve done:</p>
+
+<!-- Jekyll Ideal Image Slider Include -->
+<!-- https://github.com/jekylltools/jekyll-ideal-image-slider-include -->
+<!-- v1.8 -->
+<div id="caprile2_slider">
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider2/1.jpg" title="" alt="The complete rendering" />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider2/2.jpg" title="" alt="The observatory without the walls" />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider2/3.jpg" title="" alt="The observatory without the walls" />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider2/4.jp" title="" alt="The simulated telescope" />
+  <img data-src="" data-src-2x="" src="/projects/CaprileObservatory/slider2/5.jpg" title="" alt="The observatory without the walls" />
+  </div>
+
+<hr />
+
+<h4 id="more-to-come">More to come…</h4>
 
 <div id="disqus_thread"></div>
 <script>
@@ -465,11 +516,17 @@ window.cookieconsent.initialise({
   <script>
   var caprile1_slider = new IdealImageSlider.Slider({
       selector: '#caprile1_slider',
-      effect: 'slide',
       });
     caprile1_slider.addBulletNav();
     caprile1_slider.addCaptions();
     caprile1_slider.start();
+  var caprile2_slider = new IdealImageSlider.Slider({
+      selector: '#caprile2_slider',
+      effect: 'slide',
+      });
+    caprile2_slider.addBulletNav();
+    caprile2_slider.addCaptions();
+    caprile2_slider.start();
   </script>
   </body>
 
