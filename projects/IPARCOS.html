@@ -276,28 +276,97 @@ window.cookieconsent.initialise({
     <h4 id="project-repo-marcocipriani01iparcos">Project repo: <a href="https://github.com/marcocipriani01/IPARCOS">marcocipriani01/IPARCOS</a>
 </h4>
 
-<p>IPARCOS (INDI Protocol Android Remote COntrol Software) is an INDI client for Android.
-It features a generic control panel, a mount joystick-like screen, a focuser controller and a database of objects to point the telescope.</p>
-
-<p>This is an updated version of <a href="https://github.com/farom57" class="user-mention">@farom57</a>’s IPARCOS, whose developed stopped years ago. I completely renewed the user interface, updated all the libraries and added the focuser control.</p>
+<p>IPARCOS (Indi Protocol Android Remote COntrol Software) is an INDI client for Android.
+It features an INDI control panel, a mount and focuser controller and a database of objects to point the telescope.</p>
 
 <p><img src="/projects/IPARCOS/1.png" width="300px" align="right" style="margin: 8px"></p>
 
 <h2 id="features">Features</h2>
+
 <ul>
-  <li>Mount and focuser controller with directional pads and speed buttons</li>
+  <li>Mount and focuser controller with directional pads and speed controls</li>
   <li>Database full of objects to which you can point the telescope directly from the app</li>
-  <li>Generic control panel compatible with every device</li>
-  <li>Languages: English, French, Italian</li>
+  <li>INDI control panel compatible with every device (BLOB properties not yet supported)</li>
+  <li>Languages: English, Italian and French (partial translation)</li>
 </ul>
 
-<h3 id="credits">Credits</h3>
+<h2 id="installing-iparcos">Installing IPARCOS</h2>
 
 <ul>
-  <li><a href="https://github.com/marcocipriani01" class="user-mention">@marcocipriani01</a></li>
-  <li><a href="https://github.com/farom57" class="user-mention">@farom57</a></li>
   <li>
-<a href="http://www.indilib.org/develop/indiforjava.html">INDI for Java</a> by Zerjillo</li>
+<del>From Google Play:</del>
+    <ul>
+      <li>Coming soon!</li>
+    </ul>
+  </li>
+  <li>From the .apk file:
+    <ul>
+      <li>Allow apps from unknown sources in the Android settings (Settings → Security → Unknown sources)</li>
+      <li>Download and install the latest release from the GitHub project page</li>
+    </ul>
+  </li>
+</ul>
+
+<h2 id="usage">Usage</h2>
+
+<ol>
+  <li>Prerequisite
+    <ul>
+      <li>Minimum Android version: 5.0</li>
+      <li>An INDI server must be running on the remote computer.</li>
+      <li>You must have network access to the server.</li>
+    </ul>
+    <ul>
+      <li>To achieve this, the Android device and the remote computer can be placed on your home network.</li>
+      <li>Alternatively, you can create a wireless network with your Android device and connect the remote computer to this network.</li>
+    </ul>
+  </li>
+  <li>Connection:
+    <ul>
+      <li>Choose the server address in the list or press on “Add server” to add a new server in the list</li>
+      <li>Optionally, you can change the port number if you do not use the default value for the INDI protocol (7624)</li>
+      <li>Click on “Connect”</li>
+    </ul>
+  </li>
+  <li>Use the INDI control panel
+    <ul>
+      <li>Click on the gear icon in the navigation bar to display the control panel</li>
+      <li>Use the tabs to switch between the devices</li>
+      <li>The properties of the device are displayed in a list. Click on a property to edit it or show the details.</li>
+    </ul>
+  </li>
+  <li>Control the telescope motion
+    <ul>
+      <li>Press the joystick to display the telescope motion control panel</li>
+      <li>The buttons will be enabled or disabled depending on the devices features.</li>
+      <li>If the device is not connected, the properties may not appear and the buttons will be disabled</li>
+    </ul>
+  </li>
+  <li>Focuser control
+    <ul>
+      <li>Supports speed control, focus in/out and absolute position</li>
+    </ul>
+  </li>
+</ol>
+
+<h3 id="developed-by">Developed by</h3>
+
+<ul>
+  <li>
+<strong>Marco Cipriani</strong> (<a href="https://github.com/marcocipriani01" class="user-mention">@marcocipriani01</a>)</li>
+  <li>
+<strong>Romain Fafet</strong> (<a href="https://github.com/farom57" class="user-mention">@farom57</a>)</li>
+</ul>
+
+<h3 id="used-libraries">Used Libraries</h3>
+
+<ul>
+  <li>
+<a href="https://github.com/INDIForJava/INDIForJava">INDIForJava</a>, LGPL v3 license</li>
+  <li>
+<a href="https://github.com/woxblom/DragListView">DragListView</a>, Apache 2.0 license</li>
+  <li>
+<a href="https://github.com/commonsguy/cwac-pager">CWAC-Pager</a>, Apache 2.0 license</li>
 </ul>
 
 
