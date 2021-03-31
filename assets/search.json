@@ -102,7 +102,7 @@
   {
     "title": "Auto Flat",
     "excerpt": "Auto Flat config utility download\n",
-    "content": "cloud_downloadSerial drivers (might me necessary)\n\n\n\n",
+    "content": "Serial drivers\n\nSome computers might not detect the flip-flat or connect to it. In that case, please install the cloud_downloadSerial drivers\n\nConfig utility installation\n\nYou can download the setup for the config utility at the bottom of this page.\nNote that Windows 10 might recognize the app as unknown and therefore potentially malicious. Please, click on “More info” and then “Run anyway”. No administrator permissions are required to install the configuration utility.\n\n\n\n\n\n\nSetup download\n\n\n\n",
     "url": "/hosted/Auto_Flat.html"
   },
   
