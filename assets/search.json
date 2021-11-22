@@ -102,7 +102,7 @@
   {
     "title": "Auto Flat",
     "excerpt": "Auto Flat config utility download\n",
-    "content": "cloud_download Control panel and CoverCalibrator ASCOM driver\n\nSerial drivers\n\nSome computers might not detect the flip-flat or connect to it. In that case, please install the cloud_download Serial driver\n\n",
+    "content": "cloud_download Control panel and CoverCalibrator ASCOM driver\n\nSerial port drivers for Windows\n\nThe serial port drivers are necessary if using an Auto Flat v1.3 board or older. If your board has a mini-USB port (not a micro-USB), then it needs the serial drivers.\n\ncloud_download Serial port drivers\n\n",
     "url": "/projects/Auto_Flat.html"
   },
   
